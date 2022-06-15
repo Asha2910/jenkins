@@ -97,7 +97,7 @@ In case there's only need to run the JS tests:
 cd war; yarn test
 ```
 
-## Proposing Changes
+#Proposing Changes
 
 The Jenkins project source code repositories are hosted at GitHub.
 All proposed changes are submitted, and code reviewed, using a [GitHub pull request] process.
@@ -123,7 +123,7 @@ the repository maintainers will integrate it, prepare changelogs, and
 ensure it gets released in one of upcoming Weekly releases.
 There is no additional action required from pull request authors at this point.
 
-### Pull request management
+# Pull request management
 
 The Jenkins project uses a well-defined set of labels to mark the status and content of pull requests.
 The complete list of labels can be found at https://github.com/jenkinsci/jenkins/labels.
